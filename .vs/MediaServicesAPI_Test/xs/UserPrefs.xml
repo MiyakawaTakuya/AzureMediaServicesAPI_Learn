@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{24A6BB9B-7ED2-41B5-9EBB-2D134A863C9D}|Default">
+  <MonoDevelop.Ide.ItemProperties.MediaServicesAPI__Test FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MediaServicesAPI_Test/ConfigWrapper.cs">
+    <Files>
+      <File FileName="MediaServicesAPI_Test/Program.cs" Line="13" Column="1" />
+      <File FileName="MediaServicesAPI_Test/appsettings.json" Line="9" Column="59" />
+      <File FileName="MediaServicesAPI_Test/ConfigWrapper.cs" Line="5" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MediaServicesAPI_Test" expanded="True">
+            <Node name="MediaServicesAPI_Test" expanded="True">
+              <Node name="ConfigWrapper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

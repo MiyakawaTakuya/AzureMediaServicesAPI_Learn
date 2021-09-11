@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaServicesAPI_Test", "MediaServicesAPI_Test\MediaServicesAPI_Test.csproj", "{24A6BB9B-7ED2-41B5-9EBB-2D134A863C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A6BB9B-7ED2-41B5-9EBB-2D134A863C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A6BB9B-7ED2-41B5-9EBB-2D134A863C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A6BB9B-7ED2-41B5-9EBB-2D134A863C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A6BB9B-7ED2-41B5-9EBB-2D134A863C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87CA94BE-8499-4999-BDDD-4AC556C32711}
+	EndGlobalSection
+EndGlobal
